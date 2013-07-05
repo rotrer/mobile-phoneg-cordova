@@ -9,5 +9,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 #Phone Gap builds directory #
-platforms/
+platforms
 merges
+.cordova
